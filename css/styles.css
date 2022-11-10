@@ -94,7 +94,7 @@ ul {
     text-align: center;
     letter-spacing: 0.06em;
     color: var(--white-font-color);
-    background: var(--logo-color);
+    background-color: var(--logo-color);
     cursor: pointer;
     border: none;
 }
@@ -102,7 +102,7 @@ ul {
 .request-button:hover,
 .request-button:focus {
     color: var(--logo-color);
-    background: var(--white-font-color);
+    background-color: var(--white-font-color);
 }
 
 .features-title {
@@ -142,7 +142,7 @@ ul {
 }
 
 .our-team-section {
-    background: var(--light-background-color);
+    background-color: var(--light-background-color);
 }
 
 .our-team-section-title {
@@ -178,7 +178,7 @@ ul {
 /* FOOTER */
 
 .footer {
-    background: var(--dark-background-color);
+    background-color: var(--dark-background-color);
 }
 
 .footer-address {
@@ -217,18 +217,18 @@ ul {
     cursor: pointer;
     border: none;
     color: var(--black-font-color);
-    background: var(--light-background-color);
+    background-color: var(--light-background-color);
 }
 
 .portfolio-buttons:hover,
 .portfolio-buttons:focus {
     color: var(--footer-font-color);
-    background: var(--logo-color);
+    background-color: var(--logo-color);
 }
 
 .portfolio-buttons-current {
     color: var(--footer-font-color);
-    background: var(--logo-color);
+    background-color: var(--logo-color);
 }
 
 .portfolio-titles {
